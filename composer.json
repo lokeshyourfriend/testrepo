@@ -1,0 +1,14 @@
+{
+  "name": "lokeshurfriend/test-graphql",
+  "description": "Module responsible for handling advanced JavaScript bundling.",
+  "license": "OSL-3.0",
+  "type": "magento2-module",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Test\\GraphQL\\": ""
+    }
+  }
+}
